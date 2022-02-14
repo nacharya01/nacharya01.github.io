@@ -71,7 +71,7 @@
     -ms-flex: 100%; 
     flex: 100%;
     padding: 20px;
-    font-family: fantasy;
+    font-family:monospace;
     text-align: center;
     background:#333;
     height:400px;
